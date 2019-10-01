@@ -1,0 +1,204 @@
+FAQs
+
+
+
+Compute
+	Amazon EC2 FAQ 
+	Amazon EC2 Auto Scaling FAQ
+	Amazon EC2 Windows FAQ
+	Amazon EC2 Container Registry FAQ
+	Amazon EC2 Container Service FAQ
+	
+	Amazon Lightsail FAQ
+	AWS Batch FAQ
+	AWS Elastic Beanstalk FAQ
+	AWS Fargate FAQ
+	AWS Lambda FAQ
+	AWS Serverless Application Repository FAQ
+	Elastic Load Balancing FAQ
+	VMware Cloud on AWS FAQ
+
+
+Storage
+	Amazon EBS FAQ
+	Amazon EFS FAQ
+	Amazon FSx for Lustre FAQ
+	Amazon FSx for Windows File Server FAQ
+	Amazon S3 FAQ
+	Amazon S3 Glacier FAQ
+	AWS Backup FAQ
+	AWS DataSync FAQ
+	AWS Snowball FAQ
+	AWS Snowball Edge FAQ
+	AWS Snowmobile FAQ
+	AWS Storage Gateway FAQ
+	AWS Transfer for SFTP FAQ
+
+
+Database
+	Amazon Aurora FAQ
+	Amazon RDS FAQ
+	Amazon DynamoDB FAQ
+	Amazon ElastiCache FAQ
+	Amazon Redshift FAQ
+	Amazon Neptune FAQ
+	AWS Database Migration Service FAQ
+
+Migration
+	AWS Migration Hub FAQ
+	AWS Application Discovery Service
+	AWS Database Migration Service FAQ
+	AWS Server Migration Service FAQ
+	AWS Snowball FAQ
+	AWS Snowball Edge FAQ
+	AWS Snowmobile FAQ
+
+
+Networking & Content Delivery
+	Amazon VPC FAQ
+	Amazon CloudFront FAQ
+	Amazon Route 53 FAQ
+	Amazon API Gateway FAQ
+	AWS Direct Connect FAQ
+	Elastic Load Balancing FAQ
+
+
+Developer Tools
+	AWS CodeStar FAQ
+	AWS CodeCommit FAQ
+	AWS CodeBuild FAQ
+	AWS CodeDeploy FAQ
+	AWS CodePipeline FAQ
+	AWS Cloud9 FAQ
+	AWS X-Ray FAQ
+
+
+Management Tools
+	Amazon CloudWatch FAQ
+	AWS Auto Scaling FAQ
+	AWS CloudFormation FAQ
+	Amazon CloudTrail FAQ
+	Amazon Config FAQ
+	AWS OpsWorks FAQ
+	Amazon Service Catalog FAQ
+	Amazon EC2 Systems Manager FAQ
+	AWS Trusted Advisor
+	AWS Management Console FAQ
+	AWS Managed Services
+
+
+Media Services
+	Amazon Kinesis Video Streams FAQ
+	Amazon Elastic Transcoder FAQ
+	AWS Elemental MediaConvert FAQ
+	AWS Elemental MediaLive FAQ
+	AWS Elemental MediaPackage FAQ
+	AWS Elemental MediaStore FAQ
+	AWS Elemental MediaTailor FAQ
+
+
+Artificial Intelligence
+	Amazon Lex FAQ
+	Amazon Polly FAQ
+	Amazon Rekognition FAQ
+	Amazon Machine Learning FAQ
+	Machine Learning
+	AWS SageMaker FAQ
+	AWS Comprehend FAQ
+	AWS Lex FAQ
+	AWS Polly FAQ
+	AWS Rekognition FAQ
+
+Machine Learning FAQ
+	AWS Translate FAQ
+	AWS Transcribe FAQ
+	AWS DeepLens FAQ
+
+Analytics
+	Amazon Athena FAQ
+	Amazon Elastic MapReduce FAQ
+	Amazon CloudSearch FAQ
+	Amazon Elasticsearch Service FAQ
+	Amazon Kinesis FAQ
+	Amazon Redshift FAQ
+	Amazon QuickSight FAQ
+	AWS Data Pipeline FAQ
+	AWS Glue FAQ
+
+
+Security, Identity, & Compliance
+	AWS Identity and Access Management FAQ
+	Amazon Cloud Directory
+	Amazon Cognito FAQ
+	AWS GuardDuty FAQ
+	Amazon Inspector FAQ
+	Amazon Macie FAQ
+	AWS Certificate Manager FAQ
+	AWS CloudHSM FAQ
+	AWS Directory Service FAQ
+	AWS Key Management Service FAQ
+	AWS Organizations FAQ
+	AWS Single Sign-On FAQ
+	AWS Shield FAQ
+	AWS WAF FAQ
+	AWS Artifact FAQ
+
+
+Mobile Services
+	AWS Mobile Hub FAQ
+	Amazon API Gateway FAQ
+	Amazon Pinpoint FAQ
+	AWS AppSync FAQ
+	AWS Device Farm FAQ
+	Amazon Mobile Analytics FAQ
+	Amazon SNS FAQ
+	AR & VR
+	Amazon Sumerian FAQ
+
+
+Application Integration
+	Amazon MQ FAQ
+	Amazon SQS FAQ
+	Amazon SNS FAQ
+	AWS AppSync FAQ
+	AWS Step Functions FAQ
+	Amazon SWF FAQ
+
+Customer Engagement
+	Amazon Connect
+	AWS Pinpoint FAQ
+	Amazon SES FAQ
+
+
+Business Productivity
+	Alexa for Business FAQ
+	Amazon Chime
+	Amazon WorkDocs FAQ
+	Amazon WorkMail FAQ
+	Desktop & App Streaming
+	Amazon WorkSpaces FAQ
+	Amazon AppStream FAQ
+	Amazon AppStream 2.0 FAQ
+
+
+Internet of Things
+	AWS IoT Core FAQ
+	Amazon FreeRTOS FAQ
+	AWS Greengrass FAQ
+	AWS IoT 1-Click FAQ
+	AWS IoT Analytics FAQ
+	AWS IoT Button FAQ
+	AWS IoT Device Management FAQ
+
+
+Game Development
+	Amazon GameLift
+	Amazon Lumberyard
+
+Payments & Billing
+	AWS Billing FAQ
+	Amazon FPS FAQ
+	Amazon DevPay FAQ
+
+Support
+AWS Support FAQ
