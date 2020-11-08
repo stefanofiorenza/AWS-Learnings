@@ -1,0 +1,49 @@
+
+
+Compute
+
+High priority:
+
+	EC2
+	Benstalk
+	Lambda
+	
+Storage
+	S3
+	Glacier
+	
+Database:
+	Fast access, scale, World wide
+	
+	RDS
+	Dynamo DB
+	Red Shift
+	
+Network:
+
+	- VPC
+	- Direct Connect
+	- Route 
+	- Cloud Front
+	- Elastic Load balancer
+
+
+Security:
+
+	- IAAM
+	
+Management:
+
+	- Cloudwatch
+	- Autoscaling
+	- Cloud formation
+	- AWS COnfig
+	- Trust Advisor
+	
+	
+Analytics:
+
+	- Kinesys
+	
+
+

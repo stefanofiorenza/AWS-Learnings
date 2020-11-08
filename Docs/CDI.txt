@@ -1,0 +1,48 @@
+
+
+Good setup
+https://www.youtube.com/watch?v=zkNdHv1iMgY&ab_channel=BetterCodingAcademy
+
+
+1) Intro Node.js AWS codePipeline Beanstalk (Musician App)
+https://www.youtube.com/watch?v=NwzJCSPSPZs&ab_channel=CloudPath
+Git	https://github.com/jspruance/musician-app
+
+
+AWS Code Pipeline
+https://www.youtube.com/watch?v=YxcIj_SLflw&ab_channel=AmazonWebServices
+
+
+Spring Boot Docker
+https://www.youtube.com/playlist?list=PL4TnYdea-xTLSclxOO4S8PGe6ohWTXVd5
+https://www.youtube.com/watch?v=NyJpHYmq8SQ&list=PL4TnYdea-xTJ35eW6UbWAROBIp3KENejp&ab_channel=TechnoTownTechie
+SBoot and Kubernetes
+https://www.youtube.com/watch?v=EZolJ4lNiYc&list=PL4TnYdea-xTJ-aXZ2_ZcV27ah4KNgS-uR&ab_channel=TechnoTownTechie
+
+
+In28Minutes:
+https://github.com/in28minutes/deploy-spring-microservices-to-aws-ecs-fargate
+
+
+Temp:
+https://www.youtube.com/watch?v=m0a2CzgLNsc&t=4s&ab_channel=edureka%21
+https://www.youtube.com/watch?v=1fnPCWBikYQ&ab_channel=SimpleProgramming
+https://www.youtube.com/watch?v=LHz04uN-wI0&ab_channel=AgentofChange
+https://www.youtube.com/watch?v=ab3Fca1HeEI&ab_channel=MartyAWS
+https://www.youtube.com/watch?v=GERLacyOTeg&ab_channel=JavaHomeCloud
+https://www.youtube.com/watch?v=tQcF6SqWCoY&ab_channel=AmazonWebServices
+https://www.youtube.com/watch?v=sCcuUMn1vdM&ab_channel=TomGregoryTech
+https://www.youtube.com/watch?v=aHuCeLn72Lg&ab_channel=JavaTechie
+https://www.youtube.com/watch?v=q5G4h8EZ6Qg&ab_channel=CodeEngine
+https://www.youtube.com/watch?v=agDw-Ak4lAI&ab_channel=CodeEngine
+
+
+
+
+
+How to Build and Deploy SpringBoot Microservice with docker on AWS ECS | AWS Fargate| 2020
+https://www.youtube.com/watch?v=l_QNCNjNc3w&ab_channel=TechnoTownTechie
+
+
+Advanced:
+https://www.youtube.com/watch?v=sl-KFkzI8aM&ab_channel=CloudTechMasters

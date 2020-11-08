@@ -1,0 +1,91 @@
+IAAM:
+
+
+Auth Access to Services of infrastructure managed by 
+
+- IAM Service
+- Different departments, people from there will have different access privileges to infrastructure. (Data, CodeBase, Servers)
+- SW Department:
+	Developers		(Codebase, No Servers)
+	Infra Engineers	(Access to Servers, no Codebase)
+	
+- Objects to configure:
+
+	Resources (Data, CodeBase, Server)		
+		-> ARN (formato)
+		-> Path
+		
+	Groups
+	User
+	Roles (Sw Developer, SA, Legal
+	Permissions (
+	Policy
+	
+	Principals:
+		User
+		Groups
+		
+
+
+Policy:
+
+	set of permissions:
+		permission (allow | deny)
+		Action:
+		Resource:
+
+	Can be attached to:
+	1) Identity-based (Principal)
+		Managed (attachable to many principals)
+		
+		Inline
+		(create especially for one Group or Principal)
+		
+	2) Resources
+	   Attached to Resources
+
+
+
+
+
+
+
+LAB:	
+	stefano.fiorenza.nestit.aws.2019@gmail.com
+	Andreacavallo
+
+	
+	KNITS:
+	stefano.fiorenza (All)
+	Andrescavallo
+	
+	
+	
+	Developers (Virtual Machines)
+		leonardo.davinci
+		isaac.newton
+		galileo.galilei
+		enrico.fermi
+		nikola.tesla 
+		dorothy.hodgkin
+		grace.hopper
+	
+	babbodipede (aeo)
+	
+	
+	DevOps: (S3, Databases)
+		joe.walsh
+		bob.hughes
+		john.bonham
+		keith.moon
+		roger.waters
+		porl.thompson
+	
+	
+	Business:
+		alistair.cockburn
+		martin.fowler
+		ron.jeffries
+		dave.thomas
+
+	

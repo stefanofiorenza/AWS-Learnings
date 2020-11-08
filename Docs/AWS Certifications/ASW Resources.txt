@@ -1,0 +1,76 @@
+
+
+
+OFFICIAL:
+
+Training Resource lists:
+
+	Available Trainings at AWS
+	https://aws.amazon.com/getting-started/?nc2=h_ql_le
+
+	Learning solutions:
+	https://aws.amazon.com/training/?nc2=h_ql_le
+
+	Courses Use Cases:
+	https://aws.amazon.com/getting-started/use-cases/
+
+
+Docs:
+
+	https://docs.aws.amazon.com/index.html
+
+
+
+E Learning Library
+https://www.aws.training/LearningLibrary?filters=classification%3A101&search=&tab=digital_courses
+
+
+	Developer:
+	https://www.aws.training/LearningLibrary?filters=classification%3A58&search=&tab=digital_courses
+
+	Operations:
+	https://www.aws.training/LearningLibrary?filters=classification%3A3&search=&tab=digital_courses
+
+
+	Architect:
+	https://www.aws.training/LearningLibrary?filters=classification%3A2&search=&tab=digital_courses
+
+
+	Cloud Pratictioneer:
+	https://www.aws.training/LearningLibrary?filters=classification%3A2&filters=classification%3A67&search=&tab=digital_courses
+	
+	Business:
+	https://www.aws.training/LearningLibrary?filters=classification%3A4&search=&tab=digital_courses
+	
+
+Certification:
+https://aws.amazon.com/certification/certification-prep/
+https://aws.amazon.com/certification/?nav=tc&loc=3
+
+
+Cloud pratictioneer:
+https://www.aws.training/Details/Curriculum?id=16357
+
+
+
+Price:
+https://aws.amazon.com/pricing/?nc2=h_ql_pr
+
+
+
+
+Practice Exam:
+https://www.whizlabs.com/aws-developer-associate/
+https://www.practicedump.com/DVA-C01_actualtests.html
+https://passleader.free4dump.com/DVA-C01-real-dump.html?adhit=hat
+https://itexams.lead2passed.com/Amazon/new-aws-certified-developer-associate-exam-dumps-10289.html?adhit=hat
+
+
+
+
+
+DOCS:
+
+Introduction:
+https://www.besanttechnologies.com/tutorials/aws-tutorial
+
