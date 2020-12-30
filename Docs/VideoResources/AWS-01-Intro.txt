@@ -1,6 +1,6 @@
 
 
-Theoritical Introduction:
+Theoretical Introduction:
 https://www.youtube.com/watch?v=PW-V-72MJNY
 
 	What You ll learn:
@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=gA9pl-A9gDM&list=PLIUhw5xEbE-UIt62T_qb8l-sf3eft5
 	2) AWS Console navigation
 	3) Account setup
 		> Configure Region
-		> BIlling dashboard
+		> Billing dashboard
 		> Admin Limits
 		> Increase limits 
 	4) Free Tier

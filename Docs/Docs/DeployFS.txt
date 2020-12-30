@@ -1,0 +1,49 @@
+
+APP:
+
+	How to create Full Stack React + Spring Boot>
+
+		CRUD Employees
+		Video: 	https://www.youtube.com/playlist?list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr
+
+		Blog:	https://www.javaguides.net/2020/07/spring-boot-react-js-crud-example-tutorial.html
+
+		Git:	https://github.com/RameshMF/ReactJS-Spring-Boot-CRUD-Full-Stack-App
+
+
+	Other CRUDS (Pagination, models)
+	
+
+DEPLOY:
+
+	RDS
+	
+	EC2
+	
+	BS
+	
+	
+	
+CONTAINERS:
+
+	ECS
+
+	Fargate
+	
+	EKS
+	
+	
+
+CDI:
+
+	AWS CodeBuild and CodeDeploy
+	https://aws.amazon.com/blogs/devops/setting-up-a-ci-cd-pipeline-by-integrating-jenkins-with-aws-codebuild-and-aws-codedeploy/
+	
+	Jenkins:
+	
+		Blog:
+		https://blog.simpliv.com/what-is-jenkins-ci-and-how-to-install-jenkins-in-amazon-cloud-ec2/
+		
+		Video:
+		https://www.youtube.com/watch?v=jmm8DsosBqw&ab_channel=AutomationStepbyStep-RaghavPal
+	
